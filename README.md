@@ -17,3 +17,7 @@ Figures 1 and 2, highlight the distinct capabilities and limitations of ChatGPT 
 For any help, please contact
 
 Sanaullah (sanaullah@hsbi.de)
+
+
+## Contributors
+Aartii Sabhaney
